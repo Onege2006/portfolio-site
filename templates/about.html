@@ -1,0 +1,24 @@
+ {% extends 'base.html' %}
+
+{% block content %}
+<section class="about-section" id="about">
+    <div class="about-container" data-aos="fade-up">
+        <h2 class="section-title">About Me</h2>
+        <div class="about-content">
+            <div class="about-text">
+                <p>Hello! I'm <strong>Onege Alibek</strong>, a cybersecurity student and aspiring web developer. I love building clean, responsive websites and exploring new technologies.</p>
+                <p>My goals are to grow as a full stack developer, join exciting projects, and make the web a safer place ✨</p>
+                <ul class="about-facts">
+                    <li>📍 Based in Astana, Kazakhstan</li>
+                    <li>🎓 2nd year at AITU (Cybersecurity)</li>
+                    <li>🛠 Tech stack: HTML, CSS, Python (Flask), JS</li>
+                    <li>🌍 Languages: Kazakh, Russian, English</li>
+                </ul>
+            </div>
+            <div class="about-photo">
+                <img src="{{ url_for('static', filename='img/profile.jpg') }}" alt="Me">
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
