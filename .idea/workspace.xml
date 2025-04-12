@@ -5,34 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8722eb9-0242-4883-b2de-4f70763f9a3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/messages.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/certificate.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/project1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/project2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/project3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/project4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/project5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/project6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/project7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/project8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/skills.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/project10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/project11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/project12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/project13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/project14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/project15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/project9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messages.db" beforeDir="false" afterPath="$PROJECT_DIR$/messages.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,22 +44,23 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Flask server.portfolio.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/onege/Desktop/Portfolio",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flask server.portfolio.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/onege/Desktop/portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/static/certificates" />
     </key>
@@ -118,6 +102,17 @@
       <workItem from="1743931802873" duration="8744000" />
       <workItem from="1743942608916" duration="8000" />
       <workItem from="1744028791809" duration="1479000" />
+      <workItem from="1744031496244" duration="1666000" />
+      <workItem from="1744217539136" duration="14000" />
+      <workItem from="1744217570292" duration="177000" />
+      <workItem from="1744267910297" duration="365000" />
+      <workItem from="1744297309562" duration="583000" />
+      <workItem from="1744359600367" duration="687000" />
+      <workItem from="1744360593463" duration="123000" />
+      <workItem from="1744370173880" duration="6000" />
+      <workItem from="1744403553634" duration="309000" />
+      <workItem from="1744403877408" duration="2000" />
+      <workItem from="1744449197050" duration="876000" />
     </task>
     <servers />
   </component>
@@ -125,7 +120,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Portfolio$portfolio.coverage" NAME="portfolio Coverage Results" MODIFIED="1744028897860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/portfolio$portfolio.coverage" NAME="portfolio Coverage Results" MODIFIED="1743942206431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Portfolio$portfolio.coverage" NAME="portfolio Coverage Results" MODIFIED="1744360594155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/portfolio$portfolio.coverage" NAME="portfolio Coverage Results" MODIFIED="1744449197972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
